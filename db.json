@@ -1,11 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "push ups",
+      "completed": true,
+      "count": 0,
+      "streaks": 0
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
