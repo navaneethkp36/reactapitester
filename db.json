@@ -3,8 +3,14 @@
     {
       "name": "push ups",
       "completed": true,
-      "count": 0,
-      "streaks": 0
+      "count": 6,
+      "streaks": 5,
+    },
+    {
+      "name": "running",
+      "completed": false,
+      "count": 4,
+      "streaks": 2,
     }
-  ],
+  ]
 }
