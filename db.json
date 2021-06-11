@@ -1,6 +1,11 @@
 {
-  "name": "push up",
-  "completed": true,
-  "count": 0,
-  "streaks": 5
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
