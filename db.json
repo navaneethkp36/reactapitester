@@ -1,16 +1,11 @@
 {
   "posts": [
     {
-      "name": "push ups",
-      "completed": true,
-      "count": 6,
-      "streaks": 5
-    },
-    {
-      "name": "running",
-      "completed": false,
-      "count": 4,
-      "streaks": 2
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
