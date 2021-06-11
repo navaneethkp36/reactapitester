@@ -6,11 +6,11 @@
       "count": 2,
       "streaks": 5
     },
-        {
+    {
       "name": "test up",
-      "completed": true,
-      "count": 2,
-      "streaks": 5
+      "completed": false,
+      "count": 3,
+      "streaks": 6
     }
   ]
 }
